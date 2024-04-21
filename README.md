@@ -38,8 +38,5 @@ If you'd like to contribute to SQLSaga by adding new notes or projects, please f
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Create a new Pull Request
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Embark on your SQLSaga and conquer the data realm! ⚔️✨
